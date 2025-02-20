@@ -46,7 +46,7 @@ Whether you're a curious beginner or an experienced professional looking to leve
 
 **Feature Toggles:** More detailed practices and tools for managing feature flags.
 
-SLI/SLO/SLA
+# SLI/SLO/SLA ☕️
 
 **Error Budget Policies:** Detailed strategies for managing and spending error budgets.
 
