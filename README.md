@@ -1,4 +1,4 @@
-[![SRE-Roadmap][SRE-.png]](https://christianbatista.com)
+[!SRE-Roadmap](images/SRE-.png)
   <div align="center">
   <a href="https://github.com/christianbaptista/sre-roadmap">
     <img src="SRE-.png" alt="Logo">
