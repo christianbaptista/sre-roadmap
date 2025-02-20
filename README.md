@@ -1,8 +1,5 @@
 ![SRE-Roadmap](images/SRE-.png)
-  <div align="center">
-  <a href="https://github.com/christianbaptista/sre-roadmap">
-    <img src="images/SRE-.png" alt="Logo">
-  </a>
+
 
 # Introduction to the SRE (Site Reliability Engineering) Roadmap 📜
 
