@@ -1,3 +1,5 @@
+[![Product Name Screen Shot][./SRE-.png]](https://christianbatista.com)
+
 # Introduction to the SRE (Site Reliability Engineering) Roadmap 📜
 
 Welcome to the SRE Roadmap, a structured and opinionated guide for anyone looking to dive into the world of Site Reliability Engineering. This roadmap is designed to help engineers, developers, and IT professionals navigate the fundamental concepts, essential tools, and best practices that define the role of an SRE.
