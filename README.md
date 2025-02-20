@@ -113,5 +113,7 @@ SLI/SLO/SLA
 # Additional Tools and Technologies ☕️
 
 **Monitoring Tools:** More tools like Datadog, New Relic, and Dynatrace.
+
 **Automation Tools:** Scripting and automation beyond basic scripting (e.g., Python, Go).
+
 **Version Control Systems:** More detailed practices for using Git and other version control systems.
