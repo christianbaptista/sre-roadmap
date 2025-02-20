@@ -1,4 +1,8 @@
-[![Product Name Screen Shot][./SRE-.png]](https://christianbatista.com)
+[![Product Name Screen Shot][SRE-.png]](https://christianbatista.com)
+<div align="center">
+  <a href="https://github.com/christianbaptista/sre-roadmap">
+    <img src="SRE-.png" alt="Logo">
+  </a>
 
 # Introduction to the SRE (Site Reliability Engineering) Roadmap 📜
 
