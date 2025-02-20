@@ -1,5 +1,5 @@
-[![Product Name Screen Shot][SRE-.png]](https://christianbatista.com)
-<div align="center">
+[![SRE-Roadmap][SRE-.png]](https://christianbatista.com)
+  <div align="center">
   <a href="https://github.com/christianbaptista/sre-roadmap">
     <img src="SRE-.png" alt="Logo">
   </a>
