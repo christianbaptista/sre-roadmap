@@ -3,33 +3,33 @@
 
 Distributed Systems
 
-    **Consensus Algorithms**: While you mention Raft, consider adding other consensus algorithms like Paxos and Zab.
+**Consensus Algorithms**: While you mention Raft, consider adding other consensus algorithms like Paxos and Zab.
 
-    **Data Partitioning Strategies**: Expand on different strategies like range partitioning, hash partitioning, and directory-based partitioning.
+**Data Partitioning Strategies**: Expand on different strategies like range partitioning, hash partitioning, and directory-based partitioning.
 
-    **Event Sourcing**: This is a useful pattern for maintaining state changes as a sequence of events.
+**Event Sourcing**: This is a useful pattern for maintaining state changes as a sequence of events.
 
-    **CQRS (Command Query Responsibility Segregation)**: This pattern can be useful in distributed systems for separating read and write operations.
+**CQRS (Command Query Responsibility Segregation)**: This pattern can be useful in distributed systems for separating read and write operations.
 
 Reliability
 
-    **Disaster Recovery**: Concepts like RTO (Recovery Time Objective) and RPO (Recovery Point Objective).
+**Disaster Recovery**: Concepts like RTO (Recovery Time Objective) and RPO (Recovery Point Objective).
 
-    **High Availability Patterns**: Such as active-active and active-passive setups.
+**High Availability Patterns**: Such as active-active and active-passive setups.
 
-    **Service Level Objectives (SLOs)**: More detailed strategies for defining and measuring SLOs.
+**Service Level Objectives (SLOs)**: More detailed strategies for defining and measuring SLOs.
 
-    **Incident Management**: More detailed practices like incident command system (ICS), runbooks, and playbooks.
+**Incident Management**: More detailed practices like incident command system (ICS), runbooks, and playbooks.
 
 Observability
 
-    **Distributed Tracing**: Tools like Jaeger, Zipkin, and OpenTelemetry.
+**Distributed Tracing**: Tools like Jaeger, Zipkin, and OpenTelemetry.
 
-    **Log Management**: Tools and practices for centralized log management (e.g., ELK Stack, Splunk).
+**Log Management**: Tools and practices for centralized log management (e.g., ELK Stack, Splunk).
 
-    **Metrics Collection**: Tools like Prometheus, Grafana, and InfluxDB.
+**Metrics Collection**: Tools like Prometheus, Grafana, and InfluxDB.
 
-    **Anomaly Detection**: Techniques and tools for detecting anomalies in metrics and logs.
+**Anomaly Detection**: Techniques and tools for detecting anomalies in metrics and logs.
 
 Rollout
 
